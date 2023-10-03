@@ -1,7 +1,6 @@
 body {
     margin: 0;
     overflow:  none;
-    background-color: white;
 }
 canvas {
     display: block;
